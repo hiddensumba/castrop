@@ -2,6 +2,9 @@ backend:
   name: github
   repo: hiddensumba/castrop # Ganti dengan username GitHub dan nama repo kamu
   branch: main
+  auth:
+    client_id: Ov23liRHPRohW1YogWw2
+    client_secret: 9bf83a2a79f1fc7b34e9e76ced57795e5e6f28f9
 
 media_folder: "public/images"
 public_folder: "/images"
